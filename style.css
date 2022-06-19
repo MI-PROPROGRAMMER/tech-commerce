@@ -141,6 +141,10 @@ ol {
 #nav-item a {
   color: white;
 }
+#nav-item a:hover {
+  color: #38a5dd;
+  border-bottom: 1px solid #38a5dd;
+}
 #logo {
   height: 70px;
 }
